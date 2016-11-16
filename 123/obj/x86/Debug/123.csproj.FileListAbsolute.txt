@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Projects\123\123\bin\Debug\123.exe
+C:\Users\admin\Documents\Projects\123\123\bin\Debug\123.pdb
+C:\Users\admin\Documents\Projects\123\123\obj\x86\Debug\123.exe
+C:\Users\admin\Documents\Projects\123\123\obj\x86\Debug\123.pdb
+C:\Users\admin\Documents\Projects\123\123\obj\x86\Debug\123.csprojResolveAssemblyReference.cache
